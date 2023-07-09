@@ -1,0 +1,1 @@
+create table students(s_name varchar(30),s_roll int primary key,s_grade int)
